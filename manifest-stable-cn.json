@@ -6,15 +6,23 @@
     "overview": "",
     "owner": "MeiamSubtitles",
     "category": "Metadata",
-    "imageUrl": "https://ghproxy.com/https://github.com/91270/MeiamSubtitles.Release/raw/main/Plugin/images/Jellyfin.MeiamSub.Shooter.png",
+    "imageUrl": "https://mirror.ghproxy.com/https://github.com/91270/MeiamSubtitles.Release/raw/main/Plugin/images/Jellyfin.MeiamSub.Shooter.png",
     "versions": [
       {
         "version": "1.0.9.0",
         "changelog": "### 修复无法查询无字幕问题 ###\n",
         "targetAbi": "10.7.0.0",
-        "sourceUrl": "https://ghproxy.com/https://github.com/91270/MeiamSubtitles.Release/raw/main/Plugin/Jellyfin.MeiamSub.Shooter_1.0.9.0.zip",
+        "sourceUrl": "https://mirror.ghproxy.com/https://github.com/91270/MeiamSubtitles.Release/raw/main/Plugin/Jellyfin.MeiamSub.Shooter_1.0.9.0.zip",
         "checksum": "94B74817E8EAE6ADBD121CA72305A0FB",
         "timestamp": "2023-02-09T12:43:43Z"
+      },
+      {
+        "version": "1.0.10.0",
+        "changelog": "### 适配新版 Jellyfin ###\n",
+        "targetAbi": "10.9.2.0",
+        "sourceUrl": "https://mirror.ghproxy.com/https://github.com/91270/MeiamSubtitles.Release/raw/main/Plugin/Jellyfin.MeiamSub.Shooter_1.0.10.0.zip",
+        "checksum": "3296044C124C286189F95089F4C22B8C",
+        "timestamp": "2024-05-23T18:43:43Z"
       }
     ]
   },
@@ -25,15 +33,23 @@
     "overview": "",
     "owner": "MeiamSubtitles",
     "category": "Metadata",
-    "imageUrl": "https://ghproxy.com/https://github.com/91270/MeiamSubtitles.Release/raw/main/Plugin/images/Jellyfin.MeiamSub.Thunder.png",
+    "imageUrl": "https://mirror.ghproxy.com/https://github.com/91270/MeiamSubtitles.Release/raw/main/Plugin/images/Jellyfin.MeiamSub.Thunder.png",
     "versions": [
       {
         "version": "1.0.9.0",
         "changelog": "### 修复无法查询无字幕问题 ###\n",
         "targetAbi": "10.7.0.0",
-        "sourceUrl": "https://ghproxy.com/https://github.com/91270/MeiamSubtitles.Release/raw/main/Plugin/Jellyfin.MeiamSub.Thunder_1.0.9.0.zip",
+        "sourceUrl": "https://mirror.ghproxy.com/https://github.com/91270/MeiamSubtitles.Release/raw/main/Plugin/Jellyfin.MeiamSub.Thunder_1.0.9.0.zip",
         "checksum": "FF5890F1FDEA2B6F8D7AE0B2FDCE4241",
         "timestamp": "2023-02-09T12:43:43Z"
+      },
+      {
+        "version": "1.0.10.0",
+        "changelog": "### 适配新版 Jellyfin ###\n",
+        "targetAbi": "10.9.2.0",
+        "sourceUrl": "https://mirror.ghproxy.com/https://github.com/91270/MeiamSubtitles.Release/raw/main/Plugin/Jellyfin.MeiamSub.Thunder_1.0.10.0.zip",
+        "checksum": "9271AC68E6C1BFF277D3630899B9EB43",
+        "timestamp": "2024-05-23T18:43:43Z"
       }
     ]
   }
